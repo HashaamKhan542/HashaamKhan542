@@ -19,14 +19,11 @@ I'm a **Master’s student in Data Science at Deakin University, Australia**, wi
 ## 💼 Work & Projects  
 
 ### 🔹 **[Data Science Portfolio](#)**
-- **[Investment Strategy Optimization](#)** – Optimized stock portfolios using expected returns & risk constraints  
 - **[Weather & Accident Analysis](#)** – Data-driven insights using historical weather data & accident records  
 - **[Red Wine Quality Prediction](#)** – Built ML models to analyze and predict wine quality  
 
 ### 🔹 **[Software Development Projects](#)**
 - **Asaan Movers** 🚚 – A **MERN-based** truck booking system with real-time location tracking  
-- **POS System for Fish & Chips Business** 🍟 – Developing a **custom POS** for efficient order management  
-
 ---
 
 ## 📚 Currently Learning  
