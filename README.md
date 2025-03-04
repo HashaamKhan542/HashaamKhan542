@@ -1,10 +1,46 @@
-- 👋 Hi, I’m @HashaamKhan542 HASHAAM KHAN
-- 👀 I’m interested in Mobile App Development in JAVA ANDROID STUDIO and FLUTTER DART and also in Web Development in HTML CSS JAVASCRIPT AND PHP
-- 🌱 I’m currently learning Flutter and Nodejs...
-- 💞️ I’m looking to collaborate on Mobile App Development ...
-- 📫 How to reach me https://www.fiverr.com/share/EE1Xrq
+# 👋 Hi, I'm Hashaam Khan!
 
-<!---
-HashaamKhan542/HashaamKhan542 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Data Scientist | Backend Developer | Power BI Enthusiast  
+
+I'm a **Master’s student in Data Science at Deakin University, Australia**, with a background in **Software Engineering** from COMSATS University Islamabad. My journey started with **backend development**, and now I’m diving deep into **data science, analytics, and business intelligence** to solve real-world problems.
+
+---
+
+## 🔥 What I Do  
+
+- 🧠 **Data Science & Analytics** – Exploratory Data Analysis (EDA), Machine Learning, Predictive Modeling  
+- 📊 **Power BI & Tableau** – Dashboards, Data Visualization, Business Intelligence  
+- 🏗 **Backend Development** – Node.js, Express.js, MongoDB, REST APIs, Microservices  
+- 📈 **Mathematics for AI** – Linear Models, Generalized Additive Models (GAMs), Optimization  
+- 🛠 **DevOps & Agile** – CI/CD, Git, Docker, Collaboration Tools  
+
+---
+
+## 💼 Work & Projects  
+
+### 🔹 **[Data Science Portfolio](#)**
+- **[Investment Strategy Optimization](#)** – Optimized stock portfolios using expected returns & risk constraints  
+- **[Weather & Accident Analysis](#)** – Data-driven insights using historical weather data & accident records  
+- **[Red Wine Quality Prediction](#)** – Built ML models to analyze and predict wine quality  
+
+### 🔹 **[Software Development Projects](#)**
+- **Asaan Movers** 🚚 – A **MERN-based** truck booking system with real-time location tracking  
+- **POS System for Fish & Chips Business** 🍟 – Developing a **custom POS** for efficient order management  
+
+---
+
+## 📚 Currently Learning  
+- **Advanced Power BI & DAX** – To create interactive reports and dashboards  
+- **Machine Learning & AI in Python/R** – Model training, tuning, and deployment  
+- **AWS & Cloud Computing** – Enhancing scalability for data-driven applications  
+
+---
+
+## 🤝 Let's Connect!  
+
+🔗 **LinkedIn**: [https://www.linkedin.com/in/hashaamkhan542/](#)  
+📩 **Email**: hashaamkhan542@gmail.com  
+
+---
+
+💡 *"If I don't succeed, then no one will."* – My journey from a small town to a global tech space is driven by passion, hard work, and a hunger for success. Let's build something impactful together!
