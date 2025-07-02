@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hashaam Khan!
 
-🚀 Data Scientist | Backend Developer | Power BI Enthusiast  
+🚀 Data Scientist | Machine Learning Engineer | Power BI Enthusiast  
 
 I'm a **Master’s student in Data Science at Deakin University, Australia**, with a background in **Software Engineering** from COMSATS University Islamabad. My journey started with **backend development**, and now I’m diving deep into **data science, analytics, and business intelligence** to solve real-world problems.
 
