@@ -6,7 +6,7 @@
 
 *Master of Data Science (Distinction) — Deakin University, Australia*
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-portfolio--rfa7ie79n--hashaam--khan.vercel.app-0D9373?style=for-the-badge)]([https://portfolio-rfa7ie79n-hashaam-khan.vercel.app/](https://portfolio-hashaam-khan.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Portfolio-0D9373?style=for-the-badge)](https://portfolio-hashaam-khan.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hashaamkhan542-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hashaamkhan542/)
 [![Email](https://img.shields.io/badge/Email-hashaamkhan542@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hashaamkhan542@gmail.com)
 
